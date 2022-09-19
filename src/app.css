@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(210, 0, 175);
+}
+p {
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    color: rgb(241, 241, 25);
+}
+.app {
+    background-color: #7b7b1c;
+    height: 100vh;
+    overflow: scroll;
+
+    h2 {
+    color: rgb(200, 210, 0);
+}
+}
